@@ -1,4 +1,4 @@
-name: Build and Obfuscate BBB Panel
+name: Build and Obfuscate BPB Panel
 
 on:
   push:
